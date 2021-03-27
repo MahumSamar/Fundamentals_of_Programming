@@ -1,0 +1,3 @@
+1	 icecream	 45       	 50      	 5
+2	 polka   	 20       	 23      	 20
+3	 cornato 	 50       	 55      	 5
